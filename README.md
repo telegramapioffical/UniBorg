@@ -13,6 +13,10 @@ Mozilla Public License for more details.
 
 ## installing
 
+#### The Easy Way
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 #### The Easiest Way
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
